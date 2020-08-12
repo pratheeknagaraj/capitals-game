@@ -59,7 +59,7 @@ data = {
     "Estonia" : {"capital" : {"Tallinn"}, "regions": ["europe"]},
     "Eswatini" : {"capital" : {"Mbabane"}, "regions": ["africa"]},
     "Ethiopia" : {"capital" : {"Addis Ababa"}, "regions": ["africa"]},
-    "Faroe Islands" : {"capital": {"Tórshavn"}, "country": False, "regions": ["europe"]},
+    "Faroe Islands" : {"capital": {"Tórshavn"}, "sovereign": False, "regions": ["europe"]},
     "Fiji" : {"capital" : {"Suva"}, "regions": ["oceania"]},
     "Finland" : {"capital" : {"Helsinki"}, "regions": ["europe"]},
     "France" : {"capital" : {"Paris"}, "regions": ["europe"]},
