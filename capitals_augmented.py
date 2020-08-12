@@ -187,7 +187,7 @@ data = {
     "Trinidad and Tobago" : {"capital" : {"Port of Spain"}, "regions": ["north_america", "americas", "caribbean"]},
     "Tunisia" : {"capital" : {"Tunis"}, "regions": ["africa"]},
     "Turkey" : {"capital" : {"Ankara"}, "regions": ["asia", "europe"]},
-    "Turkmenistan" : {"capital" : {"Asgabat"}, "regions": ["asia"]},
+    "Turkmenistan" : {"capital" : {"Ashgabat"}, "regions": ["asia"]},
     "Turks and Caicos" : {"capital" : {"Cockburn Town"}, "sovereign": False, "regions": ["north_america", "americas", "caribbean"]},
     "Tuvalu" : {"capital" : {"Funafuti"}, "regions": ["oceania"]},
     "Uganda" : {"capital" : {"Kampala"}, "regions": ["africa"]},
