@@ -89,7 +89,7 @@ data = {
     "Jamaica" : {"capital" : {"Kingston"}, "regions": ["north_america", "americas", "caribbean"]},
     "Japan" : {"capital" : {"Tokyo"}, "regions": ["asia"]},
     "Jordan" : {"capital" : {"Amman"}, "regions": ["asia", "middle_east"]},
-    "Kazakhstan" : {"capital" : {"Astana"}, "regions": ["asia", "europe"]},
+    "Kazakhstan" : {"capital" : {"Nur-Sultan", "Astana"}, "regions": ["asia", "europe"]},
     "Kenya" : {"capital" : {"Nairobi"}, "regions": ["africa"]},
     "Kiribati" : {"capital" : {"South Tarawa"}, "regions": ["oceania"]},
     "Kosovo" : {"capital" : {"Pristina"}, "regions": ["europe"]},
