@@ -151,7 +151,7 @@ data = {
     "Republic of the Congo" : {"capital" : {"Brazzaville"}, "regions": ["africa"]},
     "Romania" : {"capital" : {"Bucharest"}, "regions": ["europe"]},
     "Russia" : {"capital" : {"Moscow"}, "regions": ["europe"]},
-    "Rwanda" : {"capital" : {"Kigali"}, "regions": ["asia"]},
+    "Rwanda" : {"capital" : {"Kigali"}, "regions": ["africa"]},
     "Saint Kitts and Nevis" : {"capital" : {"Basseterre"}, "regions": ["north_america", "americas", "caribbean"]},
     "Saint Lucia" : {"capital" : {"Castries"}, "regions": ["north_america", "americas", "caribbean"]},
     "Saint Vincent and the Grenadines" : {"capital" : {"Kingstown"}, "regions": ["north_america", "americas", "caribbean"]},
