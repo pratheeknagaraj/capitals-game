@@ -121,7 +121,7 @@ data = {
     "Montenegro" : {"capital" : {"Podgorica"}, "regions": ["europe"]},
     "Morocco" : {"capital" : {"Rabat"}, "regions": ["africa"]},
     "Mozambique" : {"capital" : {"Maputo"}, "regions": ["africa"]},
-    "Myanmar" : {"capital" : {"Naypyidaw"}, "regions": ["asia", "southeast_asia"]},
+    "Myanmar" : {"capital" : {("Naypyidaw","Nay Pyi Taw")}, "regions": ["asia", "southeast_asia"]},
     "Namibia" : {"capital" : {"Windhoek"}, "regions": ["africa"]},
     "Nauru" : {"capital" : {"Yaren"}, "regions": ["oceania"]},
     "Nepal" : {"capital" : {"Kathmandu"}, "regions": ["asia"]},
